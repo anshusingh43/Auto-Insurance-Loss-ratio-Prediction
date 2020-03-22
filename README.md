@@ -5,13 +5,13 @@
 
 Here, we have dataset of an insurance company and we are trying to predict loss ratio for them to help them gain profit.
 
-## What is loss ratio?
+# What is loss ratio?
 
 You might be thinking the same question and I have the answer for you:
 
 **Loss ratio = Ratio of total losses/ total insurance premium to the amount**
 
-## Why are we using loss ratio
+# Why are we using loss ratio
 
 because it is one of the ways which helps to gauge company's suitability for the insurance coverage.
 
