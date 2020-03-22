@@ -49,4 +49,4 @@ because it is one of the ways which helps to gauge company's suitability for the
 
 In our case, LightGBM has shown most accuracy in compared to other models with 74.6% accuracy but there is definetly a scope for improvement. There are lot of feature engineering and feature selection to do followed by different ML algorithms and models.
 
-You can check the presentation if want to gain some exra information about the prediction. It's on a youtube channel.
+You can check the presentation if want to gain some exra information about the prediction. It's on a [Youtube](https://www.youtube.com/watch?v=c0u0OA8nd3A&feature=youtu.be) channel.
